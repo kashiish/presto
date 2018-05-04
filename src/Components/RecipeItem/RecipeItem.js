@@ -30,6 +30,6 @@ RecipeItem.propTypes = {
   ingredients: PropTypes.array,
   calories: PropTypes.number,
   digest: PropTypes.array
-}
+};
 
 export default RecipeItem;

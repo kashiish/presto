@@ -98,7 +98,7 @@ class Typeahead extends Component {
       onChange: this.handleChange,
       onBlur: this.handleBlur,
       onFocus: this.handleFocus
-    }
+    };
 
     return (
       <div className = "typeahead">

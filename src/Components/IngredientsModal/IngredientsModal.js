@@ -235,10 +235,10 @@ class IngredientsModal extends Component {
 
 IngredientsModal.defaultProps = {
   ingredients: []
-}
+};
 
 IngredientsModal.propTypes = {
   ingredients: PropTypes.array.isRequired
-}
+};
 
 export default IngredientsModal;

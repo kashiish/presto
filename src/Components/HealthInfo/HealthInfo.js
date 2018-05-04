@@ -16,7 +16,7 @@ const getChartInfo = (digest, numServings) => {
     labels: ["Fat (g)", "Carbs (g)", "Protein (g)"],
     datasets: [{
       backgroundColor: ["#FF7272", "#FFDF73", "#C4FF73"],
-      data: data 
+      data: data
     }]
   };
 
@@ -33,8 +33,8 @@ const getChartInfo = (digest, numServings) => {
     maintainAspectRatio: false
   };
 
-  return [chartData, chartOptions]
-}
+  return [chartData, chartOptions];
+};
 
 const HealthInfo = props => {
 

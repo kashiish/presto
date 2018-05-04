@@ -7,7 +7,7 @@ import './RecipesContainer.css';
 const RecipesContainer = props => {
   let recipeItems;
 
-  recipeItems = props.recipes.map((item, i)=> {
+  recipeItems = props.recipes.map((item, i) => {
     return (
       <RecipeItem
         key = {i}

@@ -10,7 +10,7 @@ const RecipeInfo = props => {
 
   if(props.healthLabels) {
     healthLabels = props.healthLabels.map((label, i) => {
-      return <span key = {i} className = "health-label">{label}</span>
+      return (<span key = {i} className = "health-label">{label}</span>);
     });
   }
 

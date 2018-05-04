@@ -15,7 +15,7 @@ const shuffleArray = (a) => {
     a[random] = temp;
   }
 
-}
+};
 
 class SearchBar extends Component {
   constructor(props) {
@@ -44,7 +44,7 @@ class SearchBar extends Component {
     if(query.length)
       this.props.onSubmit(query.toLowerCase(), this.state.onlyVegan);
 
-  };
+  }
 
   handleValueChange(value) {
     this.setState({

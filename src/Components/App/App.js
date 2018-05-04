@@ -12,7 +12,7 @@ let url = "https://api.edamam.com/search?";
 const getRequest = (query, onlyVegan) => {
   return url + "q=" + processQuery(query) + "&app_id=" + id + "&app_key=" + key + "&health=vegan"
   + (onlyVegan ? "" : "&health=vegetarian") + "&from=0&to=20";
-}
+};
 
 const processQuery = (query) => {
   let queryArray = query.toLowerCase().split(/\s+/);
