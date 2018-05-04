@@ -1,0 +1,56 @@
+.app {
+  text-align: center;
+}
+
+img {
+  width: 1em;
+  display: inline-block;
+  margin-left:0.1em;
+  position:relative;
+  top: -3px;
+}
+
+.app .heading h1 {
+  font-family: "Hi Melody", sans-serif;
+  font-size: 7em;
+  line-height: 0;
+  margin-top:0.5em;
+  margin-bottom: 0.1em;
+  display: inline-block;
+}
+
+.app p {
+  font-family: "Gill Sans", sans-serif;
+  font-weight: 200;
+  font-size: 0.8em;
+}
+
+.app .heading {
+  margin-bottom: 3em;
+  color: white;
+}
+
+.app .loading, .App .error {
+  margin: auto;
+  margin-top: 7em;
+
+}
+
+.app .loading {
+  font-family: "Josefin Sans", sans-serif;
+  color: white;
+  font-size: 1.5em;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 1em;
+  width: 7em;
+}
+
+@media only screen and (max-width: 420px) {
+  .app .heading h1 {
+    font-size: 6em;
+  }
+
+  .app p {
+    font-size: 0.7em;
+  }
+}

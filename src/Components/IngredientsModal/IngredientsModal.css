@@ -1,0 +1,177 @@
+.ingredients-modal {
+  font-family: "Cabin", sans-serif;
+}
+
+.ingredients-modal h1 {
+  margin: 0;
+}
+
+.ingredients-list, .ingredients-list-error {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  position:relative;
+  width:100%;
+  margin: auto;
+  margin-top: 1em;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ingredients-list {
+  grid-auto-rows: auto;
+}
+
+.ingredients-list-error {
+  grid-auto-rows: 1fr;
+}
+
+.ingredient {
+  box-sizing: border-box;
+  text-align: left;
+  width: 100%;
+}
+
+.ingredients-list-error .ingredient {
+  padding: 1em;
+}
+
+.ingredients-list label {
+  padding: 1em;
+}
+
+.ingredients-modal .checkmark {
+  top: 3px;
+  height: 15px;
+  width: 15px;
+  border: 1px solid black;
+}
+
+.ingredients-modal label .checkmark:after {
+  left: 5px;
+  top: 3px;
+  width: 2px;
+  height: 5px;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.ingredients-modal label input:checked ~ .checkmark {
+  background-color: #013197;
+}
+
+.ingredients-modal label {
+  display: block;
+  margin-left: 25px;
+}
+
+.ingredients-modal label span {
+  margin-left: -25px;
+}
+
+.ingredients-button, .find-substitutes-button {
+  color: white;
+  font-family: "Cabin", sans-serif;
+  font-size: 1em;
+  border: none;
+}
+
+.ingredients-button {
+  position: absolute;
+  left: 35%;
+  bottom:0;
+  margin: 0 0.5em;
+  padding: 0.5em;
+  background-color: black;
+  border-radius: 5%;
+}
+
+.find-substitutes-button {
+  background-color: #013197;
+  padding: 0.5em;
+  margin-top: 1em;
+}
+
+@media only screen and (max-width: 961px) {
+  .ingredients-button {
+    left: 38%;
+    font-size: 0.9em;
+  }
+}
+
+@media only screen and (max-width: 831px) {
+  .ingredients-button {
+    left: 32%;
+    font-size: 0.8em;
+  }
+}
+
+@media only screen and (max-width: 741px) {
+  .ingredients-button {
+    font-size: 0.7em;
+    left: 35%;
+  }
+}
+
+@media only screen and (max-width: 651px) {
+  .ingredients-button {
+    font-size: 1em;
+    left: 50%;
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .ingredients-button {
+    font-size: 0.7em;
+  }
+
+  .ingredients-modal h1 {
+    font-size: 1.75em;
+  }
+
+  .ingredients-modal .subs-description {
+    font-size: 0.65em;
+  }
+
+  .ingredients-list label {
+    font-size: 0.75em;
+  }
+
+  .ingredients-modal .checkmark {
+    height: 11px;
+    width: 11px;
+  }
+
+  .ingredients-modal label .checkmark:after {
+    left: 3px;
+    top: 1px;
+  }
+
+  .ingredients-modal label {
+    margin-left: 20px;
+  }
+
+  .ingredients-modal label span {
+    margin-left: -20px;
+  }
+
+  .find-substitutes-button {
+    font-size: 0.75em;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .ingredients-button {
+    font-size: 0.6em;
+    margin-left: 0.5em;
+  }
+
+  .ingredients-modal h1 {
+    padding-top: 0.25em;
+  }
+
+  .find-substitutes-button {
+    margin-bottom: 1em;
+  }
+
+
+}

@@ -1,0 +1,64 @@
+.substitutions, .no-subs {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  animation-name: fade;
+  animation-duration: 1s;
+}
+
+.no-subs {
+  font-size: 0.7em;
+}
+
+.measurement {
+  font-weight: 600;
+  font-size: 0.8em;
+  margin-bottom: 0.4em;
+
+}
+
+.substitutions-list {
+  display: inline-block;
+  position:relative;
+  width:auto;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align:left;
+}
+
+.substitutions-list li {
+  display: list-item;
+  list-style-type: circle;
+  font-size: 0.7em;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 0.2em 0.5em;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translate(0, -100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .no-subs, .substitutions-list li {
+    font-size: 0.5em;
+  }
+
+  .measurement {
+    font-size: 0.6em;
+  }
+
+  .substitutions-list li {
+    padding: 0.3em;
+  }
+}

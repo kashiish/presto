@@ -1,0 +1,149 @@
+html {
+  background-image: url("https://images.pexels.com/photos/459469/pexels-photo-459469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat center center;
+  background-size: cover;
+  background-position:center;
+  background-attachment:fixed;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+}
+
+#root {
+  min-height: 96%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto 0;
+}
+
+/* checkbox style from w3schools*/
+
+label input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+label .checkmark {
+  margin-right: 0.5em;
+}
+
+.checkmark {
+  position: relative;
+  display: inline-block;
+  border-radius: 100%;
+}
+
+label:hover input ~ .checkmark {
+  background-color: #DFDFDF;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+label input:checked ~ .checkmark:after {
+  display: block;
+}
+
+label .checkmark:after {
+  border: solid white;
+  transform: rotate(45deg);
+}
+
+
+.error {
+  color: white;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 1em;
+  width: 10em;
+  text-align: center;
+  margin: 1em auto;
+  line-height: 1.5;
+}
+
+#footer {
+  color: white;
+  font-family: "Cabin", sans-serif;
+  font-size: 12px;  position: relative;
+  bottom:0;
+  width:100%;
+  text-align: center;
+  margin: 0;
+}
+
+#footer p {
+  margin-bottom: 0.2em;
+}
+
+#edamam-api {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#edamam-api a {
+  color: rgb(145, 215, 50);
+  background-color: white;
+  padding: 0.1em;
+}
+
+
+#edamam-api, #github-link {
+  z-index: 100;
+}
+
+#edamam-api a {
+  text-decoration: none;
+}
+
+#github-link {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-right: 0.5em;
+}
+
+@media screen and (max-width: 1300px) {
+  #github-link, #edamam-api {
+    position: absolute;
+    margin-bottom: 0;
+  }
+
+  #github-link {
+    top: 4px;
+  }
+
+}
+
+@media only screen and (max-width: 741px) {
+  #edamam-api {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 651px) {
+  #github-link, #edamam-api {
+    display: none;
+  }
+
+}

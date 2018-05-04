@@ -1,0 +1,154 @@
+.recipe-info {
+  position: absolute;
+  left: 29%;
+  width: 40%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0 0.5em;
+  margin: 0 0.5em;
+}
+
+.recipe-info h2, a, a:visited, a:hover, a:active{
+  color: white;
+}
+
+.recipe-info a, .health-label {
+  font-family: "Cabin", sans-serif;
+}
+
+.recipe-info h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 200;
+  position: relative;
+  font-size: 1.2em;
+  text-align: left;
+  line-height: 1.5em;
+}
+
+.recipe-info a {
+  font-size: 1em;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin: 0 0.5em;
+  padding: 0.5em;
+  text-decoration: none;
+  border-radius: 5%;
+  background-color: black;
+}
+
+.health-labels {
+  color: white;
+  text-align: left;
+}
+
+.health-label {
+  font-size: 9px;
+  float: left;
+  margin-right: 0.5em;
+  margin-top: 0.5em;
+  padding:4px;
+  border-radius: 10%;
+  background-color: black;
+
+}
+
+@media only screen and (max-width: 961px) {
+  .recipe-info {
+    left: 33%;
+    width: 36%;
+  }
+
+  .recipe-info h2 {
+    font-size: 1.1em;
+  }
+
+  .recipe-info a {
+    font-size: 0.9em;
+  }
+
+}
+
+@media only screen and (max-width: 831px) {
+  .recipe-info {
+    left: 30%;
+    width: 39%;
+  }
+
+  .recipe-info a {
+    font-size: 0.8em;
+  }
+}
+
+@media only screen and (max-width: 741px) {
+  .recipe-info {
+    width:36%;
+  }
+
+  .recipe-info h2 {
+    font-size: 0.9em;
+  }
+
+  .health-label {
+    font-size: 7px;
+  }
+
+  .recipe-info a {
+    font-size: 0.7em;
+  }
+
+}
+
+@media only screen and (max-width: 651px) {
+  .recipe-info {
+    left: 47%;
+    width: 51%;
+  }
+
+  .recipe-info h2 {
+    font-size: 1.2em;
+  }
+
+  .recipe-info a {
+    font-size: 1em;
+    margin-left:0.5em;
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .recipe-info {
+    left: 48%;
+    width: 49%;
+  }
+
+  .recipe-info h2 {
+    font-size: 1.1em;
+  }
+
+  .recipe-info a {
+    font-size: 0.7em;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .recipe-info {
+    left: 47%;
+  }
+
+  .recipe-info h2 {
+    font-size: 0.9em;
+  }
+
+  .health-label {
+    font-size: 6px;
+  }
+
+  .recipe-info a {
+    font-size: 0.6em;
+    margin-left: 0.7em;
+  }
+
+}

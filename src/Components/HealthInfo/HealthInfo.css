@@ -1,0 +1,98 @@
+.health-info {
+  position: absolute;
+  left: 70%;
+  width: 30%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.nutrition, .calories, .health-info p {
+  color: white;
+  font-family: "Cabin", sans-serif;
+}
+
+.health-info p {
+  position: relative;
+  top: 30%;
+}
+
+.nutrition {
+  margin: 0;
+  font-size: 1em;
+}
+
+.calories {
+  margin-top: 0;
+  font-size: 0.8em;
+  padding-top: 0.5em;
+}
+
+.chart {
+  position: absolute !important;
+  top: 20% !important;
+  left: 13% !important;
+  width: 80% !important;
+  height: 80% !important;
+}
+
+@media only screen and (max-width: 741px) {
+  .health-info {
+    left:67%;
+    width:33%;
+  }
+
+  .nutrition {
+    font-size: 0.8em;
+  }
+
+  .calories {
+    font-size: 0.7em;
+  }
+
+  .chart {
+    left: 13.5% !important;
+    width: 80% !important;
+    height: 80% !important;
+  }
+}
+
+@media only screen and (max-width: 651px) {
+  .health-info {
+    padding-top: 0.3em;
+    width: 45%;
+    height: 45%;
+    left: 0;
+    top: 55%;
+  }
+
+
+  .nutrition, .calories {
+    display: none;
+  }
+
+  .chart {
+    left: 3% !important;
+    top:0 !important;
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .health-info {
+    top: 50%;
+    width: 48%;
+    height: 50%;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .health-info {
+    top: 50%;
+  }
+
+  .chart {
+    width: 95% !important;
+    left: 7% !important;
+  }
+}

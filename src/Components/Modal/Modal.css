@@ -1,0 +1,64 @@
+body.modal-open {
+  overflow: hidden;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 5%;
+  z-index: 9999;
+  overflow: scroll;
+}
+
+.modal {
+  background-color: #F3F3F3;
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  padding: 30px;
+  animation: fadein 0.5s;
+  position: relative;
+}
+
+.modal .close-modal {
+  position: absolute;
+  right:-0.5%;
+  top:0.25%;
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@media only screen and (max-width: 651px) {
+  .modal {
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .modal-backdrop {
+    padding: 1%;
+  }
+  .modal {
+    width: 350px;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .modal-backdrop {
+    padding: 2%;
+  }
+  .modal {
+    width: 100%;
+    padding:0;
+  }
+}

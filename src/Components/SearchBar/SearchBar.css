@@ -1,0 +1,70 @@
+.search-bar label, .search-bar .random-recipe {
+  color: white;
+  font-size: 1em;
+  font-family: "Josefin Sans";
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.search-bar label {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+}
+
+.search-bar .random-recipe {
+  margin-left: 1em;
+  border: none;
+}
+
+.random-recipe:hover {
+  transform: scale(1.1);
+}
+
+.random-recipe:active {
+  box-shadow: -1px 2px 27px -5px rgba(0,0,0,0.75);
+}
+
+.search-bar .checkmark {
+  top: 6px;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+.search-bar label .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border-width: 0 3px 3px 0;
+  transform: rotate(45deg);
+}
+
+.search-bar label input:checked ~ .checkmark {
+  background-color: #0D8F00;
+}
+
+@media only screen and (max-width: 420px) {
+  .search-bar label, .search-bar .random-recipe {
+    font-size: 0.9em;
+  }
+
+  .random-recipe:hover {
+    transform: scale(1.1);
+  }
+
+  .search-bar .checkmark {
+    top: 5px;
+    height: 20px;
+    width: 20px;
+  }
+
+  .search-bar label .checkmark:after {
+    left: 7px;
+    top: 3px;
+    border-width: 0 2px 2px 0;
+  }
+
+}
