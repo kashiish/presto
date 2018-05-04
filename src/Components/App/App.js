@@ -5,7 +5,7 @@ import RecipesContainer from '../RecipesContainer';
 import './App.css';
 
 const id = "0492f55a";
-const key = "46a52323ddeae43f1f91fcf1daf683c9";
+const key = "8123095da3de3104e83077e6e4cb6506	";
 let url = "https://api.edamam.com/search?";
 
 
@@ -55,67 +55,6 @@ class App extends Component {
     this.setState({
       loading: true
     });
-
-  //
-  //   const recipes = [
-  //   {
-  //     recipe: {
-  //       label : "Tofu Stir-Fry",
-  //       image : "https://www.edamam.com/web-img/a03/a036fb0b3e5e40dd1df4cc2b68b83330",
-  //       url : "http://www.epicurious.com/recipes/food/views/marinated-tofu-51181210",
-  //       yield : 4.0,
-  //       healthLabels : ["Vegan", "Vegetarian", "Peanut-Free", "Tree-Nut-Free", "Alcohol-Free" ],
-  //       ingredientLines : [
-  //         "8 sheets flat no-boil lasagna noodles",
-  //         "2 ounces dried morel mushrooms",
-  //         "1 large sweet potato, peeled and roughly cubed (about 8 ounces)",
-  //         "1 tablespoon maple syrup",
-  //         "1 tablespoon extra-virgin olive oil, plus more for serving",
-  //         "Kosher salt and freshly ground black pepper",
-  //         "1 tablespoon canola or vegetable oil",
-  //         "8 ounces wild mushrooms of your choice, sliced into 1/2-inch pieces",
-  //         "1 small shallot, minced (about 2 tablespoons)",
-  //         "1 medium cloves garlic, minced (about 1 teaspoon)",
-  //         "2 teaspoons picked fresh thyme leaves",
-  //         "2 teaspoons soy sauce, divided",
-  //         "1 tablespoon lemon juice, divided",
-  //         "1 cup dry white wine",
-  //         "2 (15-ounce) cans large butter beans, drained but not rinsed",
-  //         "1 head escarole, dark green leaves and ends removed and discarded, pale stalks and leaves washed and cut into 3-inch segments",
-  //         "2 tablespoons chopped fresh parsley leaves"
-  //
-  //       ],
-  //       calories : 515.05766915744,
-  //       digest: [
-  //         {
-  //           label: "Fat",
-  //           total: 37.99956041396081
-  //         },
-  //         {
-  //           label: "Carbs",
-  //           total: 12.3031218234008
-  //         },
-  //         {
-  //           label: "Protein",
-  //           total: 39.8459837932032
-  //         },
-  //         {
-  //           label: "Cholestrol",
-  //           total: 0.0
-  //         },
-  //         {
-  //           label: "Sodium",
-  //           total: 1080.5182871768798
-  //         }
-  //       ]
-  //     }
-  //   }
-  // ]
-  //
-  //   this.setState({
-  //     recipesResult: recipes
-  //   });
-
 
     fetch(getRequest(query, onlyVegan))
       .then(res => res.json())

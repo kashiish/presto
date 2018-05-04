@@ -34,7 +34,7 @@ class Typeahead extends Component {
           parts.map((part, i) => {
             const className = part.toLowerCase() === query.toLowerCase() ? "highlight" : null;
 
-            return <span key = {i} className = {className}>{part}</span>
+            return (<span key = {i} className = {className}>{part}</span>);
           })
         }
       </div>

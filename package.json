@@ -2,8 +2,10 @@
   "name": "Presto",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kashiish.github.io/presto/",
   "dependencies": {
     "chart.js": "^2.7.2",
+    "gh-pages": "^1.1.0",
     "react": "^16.3.0",
     "react-autosuggest": "^9.3.4",
     "react-chartjs-2": "^2.7.0",
@@ -11,14 +13,16 @@
     "react-scripts": "1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "jest": "^20.0.4",
     "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1"
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^20.0.4"
   }
 }

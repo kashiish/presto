@@ -43,7 +43,7 @@ describe("IngredientsModal", () => {
         json: function() {
           return file === "assets/stopwords.json" ? stopwords : substitutions;
         }
-      }
+      };
 
       return Promise.resolve(data);
     });
@@ -158,10 +158,13 @@ describe("IngredientsModal", () => {
         });
 
         it("calls `getIngredientInputs` with `true` when defined and false", () => {
-          //no substitutes set yet so it will throw an error
           try {
             ingredientsModal().setState({ allChecked: false});
-          } catch (e) {}
+          } catch (e) {
+            /*program will throw TypeError because it will look for "substitutes" property in
+            * the checkboxes array, but that property has not been defined yet.
+            */
+          }
           expect(getIngredientInputs).toHaveBeenCalledWith(true);
         });
 

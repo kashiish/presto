@@ -1,14 +1,15 @@
 html {
-  background-image: url("https://images.pexels.com/photos/459469/pexels-photo-459469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-repeat: no-repeat center center;
+  background: url("https://images.pexels.com/photos/459469/pexels-photo-459469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center center fixed;
   background-size: cover;
-  background-position:center;
-  background-attachment:fixed;
+  height: 100%;
+  overflow: hidden;
 }
 
 body {
   margin: 0;
   padding: 0;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
   font-family: sans-serif;
 }
 

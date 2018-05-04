@@ -20,7 +20,7 @@ const processIngredients = (uncheckedItems, stopwords) => {
     uncheckedItems[i].value = newValue.replace(/ *\([^)]*\) */g, " ").replace(/[^a-zA-Z\s]/g, " ").replace(re, " ").replace(/\s\s+/g, " ").trim();
   }
 
-}
+};
 
 const getSubstitutes = (uncheckedItems, substitutions) => {
   for(let i = 0; i < uncheckedItems.length; i++) {
@@ -194,7 +194,7 @@ class IngredientsModal extends Component {
   render() {
     let modal = null;
     let ingredientInputs;
-    let modalOpenError = this.state.modalOpen && this.state.error;
+    let modalOpenError = this.state.error && this.state.modalOpen;
 
     if(this.state.allChecked !== undefined && !this.state.allChecked) {
       ingredientInputs = this.getIngredientInputs(true);

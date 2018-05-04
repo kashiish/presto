@@ -70,7 +70,7 @@ describe("Substitutions", () => {
     try {
       subs();
     } catch (TypeError) {
-
+      //component will throw an error when trying to access a property of the checkbox object
     }
     expect(spy).toHaveBeenCalled();
     spy.mockRestore();

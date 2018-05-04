@@ -114,7 +114,7 @@ describe("Modal", () => {
       const mockedEvent = { keyCode: 27, preventDefault: jest.fn()};
       modal().instance().handleKeyUp(mockedEvent);
       expect(props.onClose).toHaveBeenCalled();
-      expect(remove).toHaveBeenCalledWith("keyup", modal().instance().handleKeyUp, false)
+      expect(remove).toHaveBeenCalledWith("keyup", modal().instance().handleKeyUp, false);
     });
 
     it("handles other key presses correctly", () => {

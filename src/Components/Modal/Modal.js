@@ -60,6 +60,6 @@ Modal.propTypes = {
   onClose: PropTypes.func.isRequired,
   children: PropTypes.node,
   buttonText: PropTypes.string
-}
+};
 
 export default Modal;

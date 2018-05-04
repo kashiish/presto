@@ -7,6 +7,9 @@
 }
 
 .react-autosuggest__input {
+ -webkit-box-sizing: border-box;
+ -webkit-appearance: none;
+  -webkit-border-radius:0;
   outline: none;
   width: 25em;
   height: 50px;
@@ -19,6 +22,14 @@
   margin-bottom:1em;
   background-color: transparent;
 }
+
+@media not all and (min-resolution:.001dpcm) { @media {
+  .react-autosuggest__input, ::placeholder {
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 1.5;
+  }
+}}
 
 .react-autosuggest__suggestions-container {
   display: none;

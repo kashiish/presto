@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import RecipeItem from '../RecipeItem';
 
-import './RecipesContainer.css'
+import './RecipesContainer.css';
 
 const RecipesContainer = props => {
   let recipeItems;
@@ -34,6 +34,6 @@ const RecipesContainer = props => {
 RecipesContainer.propTypes = {
   recipes: PropTypes.array.isRequired,
   suggestionsOpen: PropTypes.bool.isRequired
-}
+};
 
 export default RecipesContainer;

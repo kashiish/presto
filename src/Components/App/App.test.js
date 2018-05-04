@@ -7,7 +7,7 @@ import RecipesContainer from '../RecipesContainer';
 
 it('renders without crashing', () => {
   const wrapper = render(<App/>);
-  expect(wrapper).toHaveLength(1)
+  expect(wrapper).toHaveLength(1);
 });
 
 //Thank you Stephen Scott!
@@ -136,7 +136,7 @@ describe("App", () => {
     const exampleData = {
       count: 2,
       hits: []
-    }
+    };
 
     beforeEach(() => {
       promise = Promise.resolve (

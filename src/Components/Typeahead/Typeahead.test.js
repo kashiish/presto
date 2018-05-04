@@ -44,9 +44,7 @@ describe("Typeahead", () => {
     props = {
       value: "",
       onChange: jest.fn(),
-      toggleFocus: jest.fn(),
-      suggestions: undefined,
-      placeholder: undefined
+      toggleFocus: jest.fn()
     };
 
     mountedTypeahead = undefined;
@@ -73,7 +71,7 @@ describe("Typeahead", () => {
         onChange: typeahead().instance().handleChange,
         onBlur: typeahead().instance().handleBlur,
         onFocus: typeahead().instance().handleFocus
-      }
+      };
       const propsToPass = {
         suggestions: props.suggestions,
         onSuggestionsFetchRequested: typeahead().instance().onSuggestionsFetchRequested,
@@ -229,7 +227,7 @@ describe("Typeahead", () => {
         {suggestion: exampleSuggestions[2], query: "pie", spanLength: 3, highlightLength: 1, highlightText: "Pie"},
         {suggestion: exampleSuggestions[1], query: "r", spanLength: 5, highlightLength: 2, highlightText: "r"},
         {suggestion: exampleSuggestions[3], query: "french", spanLength: 1, highlightLength: 0, highlightText: null},
-      ]
+      ];
 
       for(let i = 0; i < testCases.length; i++) {
         let suggestion = testCases[i].suggestion;

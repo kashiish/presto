@@ -62,7 +62,7 @@ describe("RecipeItem", () => {
     it("renders nothing when undefined", () => {
       props.calories = undefined;
       expect(healthInfo().find(".calories").length).toBe(0);
-    })
+    });
 
   });
 

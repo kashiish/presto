@@ -4,7 +4,6 @@
   font-family: "Josefin Sans";
   background-color: rgba(0, 0, 0, 0.3);
   padding: 1em;
-  margin-bottom: 1em;
 }
 
 .search-bar label {
@@ -45,6 +44,12 @@
 .search-bar label input:checked ~ .checkmark {
   background-color: #0D8F00;
 }
+
+@media not all and (min-resolution:.001dpcm) { @media {
+  .random-recipe, .search-bar label {
+    margin-bottom: 1em;
+  }
+}}
 
 @media only screen and (max-width: 420px) {
   .search-bar label, .search-bar .random-recipe {

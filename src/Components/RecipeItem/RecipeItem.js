@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import RecipeInfo from '../RecipeInfo';
 import HealthInfo from '../HealthInfo';
 
-import './RecipeItem.css'
+import './RecipeItem.css';
 
 const RecipeItem = props => {
 

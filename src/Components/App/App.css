@@ -30,7 +30,7 @@ img {
   color: white;
 }
 
-.app .loading, .App .error {
+.app .loading, .app .error {
   margin: auto;
   margin-top: 7em;
 

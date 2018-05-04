@@ -11,6 +11,12 @@
   margin-bottom: 1em;
 }
 
+@media not all and (min-resolution:.001dpcm) { @media {
+  .recipe-item {
+    display: block;
+  }
+}}
+
 li {
   list-style: none;
 }

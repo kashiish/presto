@@ -12,7 +12,7 @@ const Substitutions = props => {
   }
   let measurement = props.checkbox.substitutes.ingredient.match(/\((.*)\)/);
   let substitutions = props.checkbox.substitutes.substitutions.map((substitute, i) => {
-      return <li key = {i}>{substitute}</li>
+      return (<li key = {i}>{substitute}</li>);
   });
 
   return (
@@ -30,6 +30,6 @@ const Substitutions = props => {
 
 Substitutions.propTypes = {
   checkbox: PropTypes.object.isRequired
-}
+};
 
 export default Substitutions;

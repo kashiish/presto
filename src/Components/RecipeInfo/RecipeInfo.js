@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import IngredientsModal from '../IngredientsModal';
 
-import './RecipeInfo.css'
+import './RecipeInfo.css';
 
 const RecipeInfo = props => {
 
