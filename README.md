@@ -1,5 +1,7 @@
 # Presto
 
+[![Build Status](https://travis-ci.org/kashiish/presto.svg?branch=master)](https://travis-ci.org/kashiish/presto)
+
 <p align="center">
   <img src="https://github.com/kashiish/presto/blob/master/presto.png?raw=true"/>
 </p>
