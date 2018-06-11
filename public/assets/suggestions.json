@@ -266,6 +266,7 @@
   },
   {
     "recipe": "Tortilla",
+    "category": "bread",
     "cuisine": "mexican"
   },
   {
@@ -710,24 +711,17 @@
     "category": "sandwich"
   },
   {
-    "recipe": "Cashew Cheese",
-    "category": "vegan"
+    "recipe": "Cashew Cheese"
   },
   {
-    "recipe": "Vegan Cheese",
-    "category": "vegan"
-  },
-  {
-    "recipe": "Parmesan",
-    "category": "vegan"
+    "recipe": "Parmesan"
   },
   {
     "recipe": "Lentil Curry",
     "cuisine": "indian"
   },
   {
-    "recipe": "Nacho Cheese",
-    "category": "vegan"
+    "recipe": "Nacho Cheese"
   },
   {
     "recipe": "Calzone",
@@ -735,12 +729,10 @@
     "cuisine": "italian"
   },
   {
-    "recipe": "Shiitake Bacon",
-    "category": "vegan"
+    "recipe": "Shiitake Bacon"
   },
   {
-    "recipe": "Tempeh Bacon",
-    "category": "vegan"
+    "recipe": "Tempeh Bacon"
   },
   {
     "recipe": "Wontons"
@@ -963,12 +955,7 @@
     "category": "dessert"
   },
   {
-    "recipe": "Vegan Meatballs",
-    "category": "vegan"
-  },
-  {
-    "recipe": "Meatballs",
-    "category": "vegan"
+    "recipe": "Meatballs"
   },
   {
     "recipe": "Ratatouille",
@@ -1119,5 +1106,35 @@
   {
     "recipe": "Mango Smoothie",
     "category": "drink"
+  },
+  {
+    "recipe": "Omelet",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Omelette",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Kombucha",
+    "category": "drink"
+  },
+  {
+    "recipe": "Macaroni Salad",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Mac Salad",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Biryani",
+    "category": "rice",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Halwa",
+    "category": "dessert",
+    "cuisine": "indian"
   }
 ]

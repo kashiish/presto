@@ -677,7 +677,7 @@
   "ingredient": "tapioca starch",
   "substitutions": ["arrowroot (1/2 the amount recipe calls for)", "potato starch (1/2 the amount recipe calls for)"]
 }, {
-  "ingredient": "pepper flakes;pepper flake;chili flakes",
+  "ingredient": "pepper flakes;pepper flake;chili flakes;chile flakes",
   "substitutions": ["chili powder", "cayenne pepper", "crushed dried chilis", "sriracha"]
 }, {
   "ingredient": "carom seeds;carom seed",
@@ -740,8 +740,11 @@
   "ingredient": "balsamic vinegar (1 tbsp)",
   "substitutions": ["1 tbsp cider or red wine vinegar + 1/2 tsp sugar"]
 }, {
-  "ingredient": "white wine vinegar (1 tbsp)",
+  "ingredient": "white wine vinegar",
   "substitutions": ["rice wine vinegar", "champagne vinegar", "cider vinegar"]
+}, {
+  "ingredient": "wine vinegar (substitute according to taste)",
+  "substitutions": ["balsamic vinegar", "white wine vinegar", "cider vinegar", "rice vinegar"]
 }, {
   "ingredient": "celery",
   "substitutions": ["fennel", "bok choy"]
@@ -751,4 +754,7 @@
 }, {
   "ingredient": "jalapeno;jalapeño;jalapeno peppers;jalapeño peppers;jalapeno pepper;jalapeño pepper",
   "substitutions": ["serrano pepper", "anaheim pepper", "cayenne", "red chili flakes"]
+}, {
+  "ingredient": "apple cider vinegar (1 tbsp)",
+  "substitutions": ["1 tbsp lemon or lime juice", "2 tbsps white wine"]
 }]
