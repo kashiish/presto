@@ -8,7 +8,7 @@
 
 Presto is a simple vegan & vegetarian recipe search engine created using React. It is powered by the free [Edamam Recipe API](https://developer.edamam.com/edamam-docs-recipe-api).
 
-I made this web app to get experience in using React technology. I spent a lot of time reading and learning about the best practices to follow, so I hope I did will!
+I made this web app to get experience in using React technology. I spent a lot of time reading and learning about the best practices to follow, so I hope I did well!
 
 I used `react-autosuggest` to create a typeahead suggestion box for recipe ideas. This recipe data comes from [`suggestions.json`](https://github.com/kashiish/presto/blob/master/public/assets/suggestions.json). You can get suggestions by searching with either recipe name, cuisine, or category (dip, dessert, breakfast, etc.).
 
