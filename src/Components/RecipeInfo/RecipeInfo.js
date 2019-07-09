@@ -19,7 +19,7 @@ const RecipeInfo = props => {
     <div className = "recipe-info">
       <h2 className = "title">{props.title}</h2>
       <div className = "health-labels">{healthLabels}</div>
-      <a target = "_blank" href = {props.url}>Get Recipe!</a>
+      <a target = "_blank" rel="noopener noreferrer" href = {props.url}>Get Recipe!</a>
       {modal}
     </div>
   );
