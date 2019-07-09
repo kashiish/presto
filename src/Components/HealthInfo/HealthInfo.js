@@ -72,6 +72,6 @@ HealthInfo.propTypes = {
   calories: PropTypes.number,
   digest: PropTypes.array,
   yield: PropTypes.number
-}
+};
 
 export default HealthInfo;

@@ -101,6 +101,6 @@ SearchBar.propTypes = {
   onSubmit: PropTypes.func.isRequired,
   toggleFocus: PropTypes.func.isRequired,
   suggestions: PropTypes.array
-}
+};
 
 export default SearchBar;
