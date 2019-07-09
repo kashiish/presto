@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import SearchBar from '../SearchBar';
 import RecipesContainer from '../RecipesContainer';
+import vegSign from './assets/vegetarian-mark.svg';
 
 import './App.css';
 
@@ -25,7 +26,7 @@ const processQuery = (query) => {
   queryString += queryArray[queryArray.length-1];
 
   return queryString;
-}
+};
 
 class App extends Component {
   constructor() {
@@ -115,7 +116,7 @@ class App extends Component {
       <div className="app">
         <div className = "heading">
           <h1>PRESTO</h1>
-          <img src="http://images.sasongsmat.nu/vegetarianmark/vegetarian-mark.svg" alt="Veg Sign"/>
+          <img src={vegSign} alt="Veg Sign"/>
           <p>A vegan & vegetarian recipe search engine!</p>
         </div>
         <SearchBar
