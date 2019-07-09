@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { mount } from 'enzyme';
 import Modal from './Modal';
+import type { Node } from 'react';
 
 describe("Modal", () => {
 
@@ -97,7 +98,7 @@ describe("Modal", () => {
 
 
     it("handles click outside modal correctly", () => {
-      const mockedEvent = { target: ReactDOM.findDOMNode(modal().instance()).getElementsByClassName(".modal-backdrop")};
+      const mockedEvent = { target: ReactDOM.findDOMNode(modal().instance()).modalBackdrop};
       modal().instance().handleClick(mockedEvent);
       expect(props.onClose).toHaveBeenCalled();
       expect(remove).toHaveBeenCalledWith("click", modal().instance().handleClick, false);

@@ -41,7 +41,7 @@ class Modal extends Component {
   render() {
 
     return (
-      <div className = "modal-backdrop">
+      <div ref = {node => this.modalBackdrop = node} className = "modal-backdrop">
         <div ref = {node => this.modal = node} className = "modal">
           <div className = "modal-content">
             {this.props.children}
