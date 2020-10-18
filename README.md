@@ -16,14 +16,5 @@ Additionally, I added a feature where the user can see the ingredients for a spe
 
 The [Edamam API](https://developer.edamam.com/edamam-docs-recipe-api) also returns health details for each recipe, so I used `react-chartjs-2` to create a chart to depict that information.
 
-## Issues and Contribution
-Contribution is always welcome! 
-
-I think something that could be improved is the efficiency of finding the substitutes, so if you have any ideas please feel free to submit a pull request.
-
-Also, if you think of any more suggestions, stop words, or substitutes, you can submit an issue and I will add them to the list.
-
-Lastly, if you encounter any issues please feel free to report or fix them.
-
 ### License
 MIT
