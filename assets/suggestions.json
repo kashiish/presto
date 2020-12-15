@@ -1,0 +1,1140 @@
+[
+  {
+    "recipe": "Tofu Stir Fry",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Garlic Tofu",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Crispy Tofu",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Sticky Tofu",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Tofu Steaks",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Fried Tofu",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Tofu Scramble",
+    "category": "tofu"
+  },
+  {
+    "recipe": "Fried Rice",
+    "category": "rice",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Jambalaya",
+    "category": "rice",
+    "cuisine": "spanish"
+  },
+  {
+    "recipe": "Spanish Rice",
+    "category": "rice",
+    "cuisine": "spanish"
+  },
+  {
+    "recipe": "Rice Casserole",
+    "category": "rice"
+  },
+  {
+    "recipe": "Pad Thai",
+    "category": "noodles",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Lo Mein",
+    "category": "noodles",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Sesame Noodles",
+    "category": "noodles",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Singapore Noodles",
+    "category": "noodles",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Tomato Basil",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Garlic Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "One Pot Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Lasagna",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Lasagna Roll",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Red Pepper Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Pesto Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Macaroni and Cheese",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Mac n Cheese",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Pasta Salad",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Alfredo",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Lentil Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Avocado Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Spaghetti Squash",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Potstickers",
+    "category": "dumplings",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Tacos",
+    "category": "taco",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Black Bean Tacos",
+    "category": "taco",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Cauliflower Tacos",
+    "category": "taco",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tofu Tacos",
+    "category": "taco",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Burrito",
+    "category": "burrito",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Black Bean Burrito",
+    "category": "burrito",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Breakfast Burrito",
+    "category": "burrito",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Burrito Bowl",
+    "category": "burrito",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Guacamole",
+    "category": "dip",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tapenade",
+    "category": "dip",
+    "cuisine": "french"
+  },
+  {
+    "recipe": "Tomato Sauce",
+    "category": "sauce",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Avocado Hummus",
+    "category": "dip"
+  },
+  {
+    "recipe": "Salsa",
+    "category": "dip",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Fresh Salsa",
+    "category": "dip",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Pesto",
+    "category": "sauce",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Buddha Bowl",
+    "category": "salad"
+  },
+  {
+    "recipe": "Corn Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Nachos",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Quesadillas",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Mexican Quinoa",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tostadas",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Enchiladas",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Portobello Fajitas",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Fajitas",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tex Mex Rice",
+    "category": "rice",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tortilla",
+    "category": "bread",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Tortilla Pizza",
+    "category": "pizza",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Teriyaki Bowl",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Apple Crisp",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Mousse",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Pie",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Banana Bread",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Sugar Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Brownies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Ice Cream",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Gingersnap Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Cupcakes",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Coffee Cake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Cookeis",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Fudge Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Fudge",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Red Velvet",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Red Velvet Cake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Cheesecake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Cheesecake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Lava Cake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Cupcakes",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Mug Cake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Mug Brownie",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Vanilla Cupcakes",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Pancakes",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Chocolate Chip Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "French Toast",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Strawberry Shortcake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Oat Bars"
+  },
+  {
+    "recipe": "Granola"
+  },
+  {
+    "recipe": "Crepes"
+  },
+  {
+    "recipe": "Waffles",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Stuffed Peppers"
+  },
+  {
+    "recipe": "Cauliflower Fried Rice"
+  },
+  {
+    "recipe": "Zucchini Noodles"
+  },
+  {
+    "recipe": "Vinaigrette"
+  },
+  {
+    "recipe": "Kung Pao",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Bread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Pull Apart Bread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Pizza Dough",
+    "category": "pizza",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Bread Sticks",
+    "category": "bread",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Garlic Bread",
+    "category": "bread",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Bruschetta",
+    "category": "bread",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Flatbread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Caprese",
+    "category": "salad",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Mediterranean Flatbread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Cauliflower Pizza Crust",
+    "category": "pizza"
+  },
+  {
+    "recipe": "Summer Rolls"
+  },
+  {
+    "recipe": "Spring Rolls"
+  },
+  {
+    "recipe": "Rainbow Rolls"
+  },
+  {
+    "recipe": "Sushi",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "French Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Hashbrown",
+    "category": "potato"
+  },
+  {
+    "recipe": "Potato Salad",
+    "category": "potato"
+  },
+  {
+    "recipe": "Garlic Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Roasted Potatoes",
+    "category": "potato"
+  },
+  {
+    "recipe": "Roasted Potato Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Mashed Potatoes",
+    "category": "potato"
+  },
+  {
+    "recipe": "Maple Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Rosemary Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Lettuce Wraps"
+  },
+  {
+    "recipe": "Black Bean Burger",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Cucumber Sandwich",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Portobella Burger",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Pita Bread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Gyro",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Hummus Wrap",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Falafel"
+  },
+  {
+    "recipe": "Falafel Wrap",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Veggie Burger",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Tofu Sandwich",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Avocado Toast",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Buffalo Cauliflower"
+  },
+  {
+    "recipe": "Cauliflower Steak"
+  },
+  {
+    "recipe": "Roasted Cauliflower"
+  },
+  {
+    "recipe": "Gobi Manchurian",
+    "category": "cauliflower",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Chickpea Tikka Masala",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Tuscan Bean Soup",
+    "category": "soup",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Minestrone",
+    "category": "soup",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Hot and Sour Soup",
+    "category": "soup",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Black Bean Soup",
+    "category": "soup"
+  },
+  {
+    "recipe": "Tomato Soup",
+    "category": "soup",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Roasted Tomato Soup",
+    "category": "soup",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Broccoli Cheese Soup",
+    "category": "soup"
+  },
+  {
+    "recipe": "Vegetable Soup",
+    "category": "soup"
+  },
+  {
+    "recipe": "Thai Curry Soup",
+    "category": "soup",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Avocado Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Thai Salad",
+    "category": "salad",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Taco Salad",
+    "category": "salad",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Chopped Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Rice Bowl"
+  },
+  {
+    "recipe": "Rainbow Bowl"
+  },
+  {
+    "recipe": "Quinoa Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Naan",
+    "category": "bread",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Stir Fried Green Beans",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Orange Tempeh",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Vegetable Stir Fry"
+  },
+  {
+    "recipe": "Broccolini",
+    "category": "greens"
+  },
+  {
+    "recipe": "Roasted Asparagus",
+    "category": "greens"
+  },
+  {
+    "recipe": "Zucchini Chips",
+    "category": "greens"
+  },
+  {
+    "recipe": "Collard Greens",
+    "category": "greens"
+  },
+  {
+    "recipe": "Jalapeno Poppers"
+  },
+  {
+    "recipe": "Curly Fries",
+    "category": "Potatoes"
+  },
+  {
+    "recipe": "Smoothie",
+    "category": "drink"
+  },
+  {
+    "recipe": "Green Smoothie",
+    "category": "drink"
+  },
+  {
+    "recipe": "Milkshake",
+    "category": "drink"
+  },
+  {
+    "recipe": "Iced Tea",
+    "category": "drink"
+  },
+  {
+    "recipe": "Long Island Iced Tea",
+    "category": "drink"
+  },
+  {
+    "recipe": "Sangria",
+    "category": "drink"
+  },
+  {
+    "recipe": "Punch",
+    "category": "drink"
+  },
+  {
+    "recipe": "Grilled Cheese",
+    "category": "sandwich"
+  },
+  {
+    "recipe": "Cashew Cheese"
+  },
+  {
+    "recipe": "Parmesan"
+  },
+  {
+    "recipe": "Lentil Curry",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Nacho Cheese"
+  },
+  {
+    "recipe": "Calzone",
+    "category": "pizza",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Shiitake Bacon"
+  },
+  {
+    "recipe": "Tempeh Bacon"
+  },
+  {
+    "recipe": "Wontons"
+  },
+  {
+    "recipe": "Samosas",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Dumplings",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Gyoza",
+    "category": "dumplings",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Churros",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Scones",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Muffins",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Muffins",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Cinnamon Pretzels",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Pretzels",
+    "category": "bread"
+  },
+  {
+    "recipe": "Grilled Vegetables"
+  },
+  {
+    "recipe": "Potato Wedges",
+    "category": "potato"
+  },
+  {
+    "recipe": "Sweet Potato Wedges",
+    "category": "potato"
+  },
+  {
+    "recipe": "Sweet Potato Fries",
+    "category": "potato"
+  },
+  {
+    "recipe": "Sweet Potato Casserole",
+    "category": "potato"
+  },
+  {
+    "recipe": "Green Bean Casserole"
+  },
+  {
+    "recipe": "Palak Paneer",
+    "category": "greens",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Pineapple Fried Rice",
+    "category": "rice",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Stuffed Mushrooms"
+  },
+  {
+    "recipe": "Tahini",
+    "category": "sauce"
+  },
+  {
+    "recipe": "Taquitos",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Chowder",
+    "category": "soup"
+  },
+  {
+    "recipe": "Spinach Artichoke Dip",
+    "category": "dip"
+  },
+  {
+    "recipe": "Tuna Chickpea Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Maple Roasted Sweet Potatoes",
+    "category": "potato"
+  },
+  {
+    "recipe": "Ramen",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Energy Bars"
+  },
+  {
+    "recipe": "Roasted Vegetables"
+  },
+  {
+    "recipe": "Black Bean Hummus",
+    "category": "dip"
+  },
+  {
+    "recipe": "Vegetable Chips"
+  },
+  {
+    "recipe": "Nori Rolls",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Sushi Rolls",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Lemon Poppy Seed Muffins",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Stroganoff"
+  },
+  {
+    "recipe": "Creamy Pasta",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Apple Pie",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Marinated Tofu",
+    "category": "tofu",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Donuts",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Doughnuts",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Donut Holes",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Doughnut Holes",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Miso Soup",
+    "category": "soup",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Blueberry Pie",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Blueberry Smoothie",
+    "category": "drink"
+  },
+  {
+    "recipe": "Acai Bowl"
+  },
+  {
+    "recipe": "Fried Cauliflower"
+  },
+  {
+    "recipe": "Cinnamon Rolls",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Pumpkin Cheesecake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Onion Rings"
+  },
+  {
+    "recipe": "Vegetable Stew",
+    "category": "soup"
+  },
+  {
+    "recipe": "Creme Brulee",
+    "category": "dessert",
+    "cuisine": "french"
+  },
+  {
+    "recipe": "Whole Roasted Cauliflower"
+  },
+  {
+    "recipe": "Mushroom Bolognese",
+    "category": "pasta",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Tofu Nuggets",
+    "category": "tofu"
+  },
+  {
+    "recipe": "Strawberry Sorbet",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Chocolate Cake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Meatballs"
+  },
+  {
+    "recipe": "Ratatouille",
+    "cuisine": "french"
+  },
+  {
+    "recipe": "Bahn Mi",
+    "category": "sandwich",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Strawberry Cheesecake",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Peanut Butter Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Potato Pancakes",
+    "category": "potato"
+  },
+  {
+    "recipe": "Bagel",
+    "category": "bread"
+  },
+  {
+    "recipe": "Cinnamon Swirl Bread",
+    "category": "bread"
+  },
+  {
+    "recipe": "Pumpkin Spice Latte",
+    "category": "drink"
+  },
+  {
+    "recipe": "Frappuccino",
+    "category": "drink"
+  },
+  {
+    "recipe": "Koftas",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Pakoras",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Pani Puri",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Poori",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Red Curry",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Green Curry",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Panang Curry",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Sticky Rice",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Coconut Sticky Rice",
+    "category": "dessert",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Queso",
+    "category": "dip",
+    "cuisine": "mexican"
+  },
+  {
+    "recipe": "Sticky Rice with Mango",
+    "category": "dessert",
+    "cuisine": "asian"
+  },
+  {
+    "recipe": "Mango Lassi",
+    "category": "drink",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Sorbet",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Macarons",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Macaroons",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Kale Salad",
+    "category": "salad"
+  },
+  {
+    "recipe": "Pizza",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Vegetable Pizza",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Oatmeal Raisin Cookies",
+    "category": "dessert"
+  },
+  {
+    "recipe": "Overnight Oats",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Eggplant Parmesan",
+    "cuisine": "italian"
+  },
+  {
+    "recipe": "Eggplant Sandwich"
+  },
+  {
+    "recipe": "Eggplant Burger"
+  },
+  {
+    "recipe": "Potato Chaat",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Potato Burger"
+  },
+  {
+    "recipe": "Aloo Gobi",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Paneer",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Mango Smoothie",
+    "category": "drink"
+  },
+  {
+    "recipe": "Omelet",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Omelette",
+    "category": "breakfast"
+  },
+  {
+    "recipe": "Kombucha",
+    "category": "drink"
+  },
+  {
+    "recipe": "Macaroni Salad",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Mac Salad",
+    "category": "pasta"
+  },
+  {
+    "recipe": "Biryani",
+    "category": "rice",
+    "cuisine": "indian"
+  },
+  {
+    "recipe": "Halwa",
+    "category": "dessert",
+    "cuisine": "indian"
+  }
+]

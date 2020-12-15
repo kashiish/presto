@@ -1,0 +1,760 @@
+[{
+    "ingredient": "acorn squash",
+    "substitutions": ["butternut squash", "pumpkin"]
+}, {
+    "ingredient": "allspice (1 tsp)",
+    "substitutions": ["1/2 tsp ground cinnamon + 1/2 tsp ground cloves + pinch of ground nutmeg"]
+}, {
+    "ingredient": "almond butter",
+    "substitutions": ["peanut butter", "cashew butter"]
+}, {
+    "ingredient": "almond extract (1/2 tsp)",
+    "substitutions": ["vanilla extract (3/4 tsp)"]
+}, {
+    "ingredient": "apples;apple",
+    "substitutions": ["pears", "quinces"]
+}, {
+    "ingredient": "apple juice",
+    "substitutions": ["apple cider", "pear cider", "white grape juice"]
+}, {
+    "ingredient": "apple pie spice (1 tbsp)",
+    "substitutions": ["2 tsp ground cinnamon + 1 tsp ground nutmeg + pinch ground allspice"]
+}, {
+    "ingredient": "applesauce",
+    "substitutions": ["pumpkin puree", "plum puree"]
+}, {
+    "ingredient": "arugula",
+    "substitutions": ["watercress", "baby spinach", "belgian endive", "escarole", "radicchio"]
+}, {
+    "ingredient": "Asiago cheese",
+    "substitutions": ["Parmesan cheese", "Pecorino Romano cheese"]
+}, {
+    "ingredient": "asparagus",
+    "substitutions": ["broccoli", "canned hearts of palm", "green beans"]
+}, {
+    "ingredient": "avocado;avocados",
+    "substitutions": ["cooked chayote squash"]
+}, {
+    "ingredient": "baking powder (1 tsp)",
+    "substitutions": ["1/4 tsp baking soda + 1/2 tsp cream of tartar"]
+}, {
+    "ingredient": "barbecue sauce (1 cup)",
+    "substitutions": ["1 cup ketchup + 1/2 to 1 tsp liquid smoke seasoning"]
+}, {
+    "ingredient": "beer (for soups and stews)",
+    "substitutions": ["red wine", "sake"]
+}, {
+    "ingredient": "belgian endive",
+    "substitutions": ["radicchio", "arugula", "watercress"]
+}, {
+    "ingredient": "roasted bell pepper;roasted peppers;roasted pepper",
+    "substitutions": ["chopped jarred pimientos"]
+}, {
+    "ingredient": "blackberries",
+    "substitutions": ["loganberries", "boysenberries", "raspberries"]
+}, {
+    "ingredient": "blueberries",
+    "substitutions": ["huckleberries", "red currants", "raspberries", "strawberries"]
+}, {
+    "ingredient": "blue cheese",
+    "substitutions": ["feta cheese"]
+}, {
+    "ingredient": "bok choy",
+    "substitutions": ["napa cabbage", "collard greens"]
+}, {
+    "ingredient": "boysenberries",
+    "substitutions": ["blackberries", "raspberries"]
+}, {
+    "ingredient": "bread crumbs;breadcrumbs",
+    "substitutions": ["crushed tortilla chips", "crushed dry stuffing mix", "crushed pretzels", "crushed cornflakes", "crushed potato chips", "oats"]
+}, {
+    "ingredient": "broccoli",
+    "substitutions": ["cauliflower"]
+}, {
+    "ingredient": "brussels sprouts",
+    "substitutions": ["broccoli florets", "chopped green cabbage"]
+}, {
+    "ingredient": "buttermilk (1 cup)",
+    "substitutions": ["1 tbsp lemon juice or vinegar + enough milk to equal 1 cup (for baking let stand for a few minutes before using)", "1/4 cup silken tofu + 3/4 cup water + 1 tbsp lemon juice/vinegar + pinch of salt", "plain yogurt", "sour cream"]
+}, {
+    "ingredient": "butternut squash",
+    "substitutions": ["pumpkin", "sweet potato"]
+}, {
+    "ingredient": "caraway seeds",
+    "substitutions": ["dill seeds", "anise seeds"]
+}, {
+    "ingredient": "cardamom (1/2 tsp)",
+    "substitutions": ["1/4 tsp ground cinnamon + 1/4 tsp ground nutmeg or cloves"]
+}, {
+    "ingredient": "carrots;carrot",
+    "substitutions": ["parnsips", "turnips"]
+}, {
+    "ingredient": "cauliflower",
+    "substitutions": ["broccoli"]
+}, {
+    "ingredient": "cayenne pepper;cayenne",
+    "substitutions": ["chipotle powder", "hot paprika", "crushed red pepper flakes", "chili powder"]
+}, {
+    "ingredient": "celery salt",
+    "substitutions": ["Old Bay seasoning"]
+}, {
+    "ingredient": "celery seed;celery seeds",
+    "substitutions": ["celery salt", "dill seeds"]
+}, {
+    "ingredient": "chard;swiss chard",
+    "substitutions": ["turnip greens", "spinach", "mustard greens"]
+}, {
+    "ingredient": "Cheddar cheese",
+    "substitutions": ["Colby cheese", "American cheese"]
+}, {
+    "ingredient": "chile pepper (fresh, minced)",
+    "substitutions": ["1 tsp hot pepper sauce", "1 to 3 tsp chile paste", "1/4 to 1/2 tsp ground cayenne", "3/4 tsp crushed red pepper flakes", "1 tsp paprika"]
+}, {
+    "ingredient": "chile powder (1 tsp)",
+    "substitutions": ["1 tsp cayenne pepper", "1 to 2 tsp paprika", "1 tsp chili powder"]
+}, {
+    "ingredient": "chili powder;chilli powder (1 tsp)",
+    "substitutions": ["1/2 to 1 tsp cayenne papper", "1 to 2 tsp paprika", "1 tsp chile oil"]
+}, {
+    "ingredient": "bittersweet chocolate (1oz)",
+    "substitutions": ["2 heaping tbsp unsweetened cocoa powder + 1 to 1/3 tbsp granulated sugar + 1 1/2 tsp butter, shortening, or vegetable oil"]
+}, {
+    "ingredient": "semisweet chocolate;semi sweet chocolate (1 oz)",
+    "substitutions": ["3 tbsp unsweetened cocoa powder + 1 to 1/2 tbsp granulated sugar + 1 1/2 tsp butter shortening, or vegetable oil"]
+}, {
+    "ingredient": "unsweetened chocolate (1 oz)",
+    "substitutions": ["3 tbsp unsweetened cocoa powder + 1 tbsp butter shortening, or vegetable oil"]
+}, {
+    "ingredient": "cloves;clove",
+    "substitutions": ["allspice"]
+}, {
+    "ingredient": "coffee liqueur (3 tbsp)",
+    "substitutions": ["3 tbsp water + 3/4 tsp insant coffee granules", "3 tbsp cognac", "3 tbsp rum"]
+}, {
+    "ingredient": "collards;collard greens",
+    "substitutions": ["kale", "mature spinach", "mustard greens", "turnip greens"]
+}, {
+    "ingredient": "cornstarch;corn starch (1 tbsp, for thickening)",
+    "substitutions": ["flour (3 tbsp)", "2 tbsp tapioca starch/flour"]
+}, {
+    "ingredient": "corn syrup (1 cup)",
+    "substitutions": ["honey", "1 1/4 cup packed brown sugar dissolved in 1/4 cup hot water (or liquid from recipe)", "molasses"]
+}, {
+    "ingredient": "cottage cheese",
+    "substitutions": ["ricotta cheese"]
+}, {
+    "ingredient": "couscous",
+    "substitutions": ["quinoa", "brown rice"]
+}, {
+    "ingredient": "brown rice",
+    "substitutions": ["quinoa", "couscous"]
+}, {
+    "ingredient": "crab boil seasoning",
+    "substitutions": ["Old Bay seasoning", "pickling spice"]
+}, {
+    "ingredient": "cracker crumbs (1 cup)",
+    "substitutions": ["1 1/4 cup dry bread crumbs", "1 1/2 cup crushed croutons or stuffing cubes", "1 cup panko"]
+}, {
+    "ingredient": "cream cheese",
+    "substitutions": ["ricotta cheese (for cooking)"]
+}, {
+    "ingredient": "half and half cream;halfandhalf cream;half and half (1 cup)",
+    "substitutions": ["1 tbsp melted unsalted butter + enough milk to equal 1 cup", "3/4 cup milk + 1/4 cup heavy or whipping cream", "1 cup evaporated milk (for baking)"]
+}, {
+    "ingredient": "light cream (1 cup)",
+    "substitutions": ["3 tbsp melted unsalted butter + whole milk to equal 1 cup", "1/2 cup heavy or whipping cream plus 1/2 cup whole milk", "1/2 cup evaporated milk + 1/2 cup whole milk"]
+}, {
+    "ingredient": "light whipping cream (1 cup)",
+    "substitutions": ["3/4 cup whole milk + 1/4 cup melted unsalted butter", "1 cup heavy or whipping cream"]
+}, {
+    "ingredient": "cream of tartar (1 tsp)",
+    "substitutions": ["1 tbsp distilled white vinegar or lemon juice (to add acidity to liquids)"]
+}, {
+    "ingredient": "whipping cream (1 cup)",
+    "substitutions": ["2/3 cup whole milk + 1/3 cup melted unsalted butter", "2/3 cup evaporated milk"]
+}, {
+    "ingredient": "croissants;croissant",
+    "substitutions": ["crescent rolls from refrigerated dough"]
+}, {
+    "ingredient": "cucumber;cucumbers",
+    "substitutions": ["small zucchini"]
+}, {
+    "ingredient": "cumin;cumin powder;cumin seeds;cumin seed",
+    "substitutions": ["chili powder", "ground coriander", "caraway seeds"]
+}, {
+    "ingredient": "dill",
+    "substitutions": ["tarragon"]
+}, {
+    "ingredient": "dill seeds;dill seed",
+    "substitutions": ["caraway seeds", "celery seeds"]
+}, {
+    "ingredient": "egg noodles",
+    "substitutions": ["dried linguine", "fettuccine", "pappardelle"]
+}, {
+    "ingredient": "eggplant;eggplants",
+    "substitutions": ["portobello mushroom caps", "zucchini", "yellow squash"]
+}, {
+    "ingredient": "egg white;egg whites (1 lg)",
+    "substitutions": ["2 tsp meringue powder + 3 tbsp water", "1 tbsp ground flaxseed simmered in 3 tbsp water"]
+}, {
+    "ingredient": "egg;eggs (1 egg)",
+    "substitutions": ["3 tbsp vegetable oil + 1 tbsp water (for baking)", "1 tsp cornstarch + 3 tbsp additional liquid in recipe (for thickening)", "3 tbsp water/milk + 3 tbsp flour + 1 1/2 tsp shortening + 1/2 tsp baking powder (for baking)", "1/4 cup tofu (blended)", "3 tbsp aquafaba", "1/4 cup applesauce", "1 tbsp ground flaxseed + 2 1/2 tbsp water"]
+}, {
+    "ingredient": "evaporated milk (1 cup)",
+    "substitutions": ["2 1/4 cups whole milk simmered until reduced to 1 cup", "1 cup coconut milk"]
+}, {
+    "ingredient": "fish sauce",
+    "substitutions": ["soy sauce", "fermented tofu"]
+}, {
+    "ingredient": "flaxseed;flaxseeds;flax seeds;flax meal;flaxseed meal",
+    "substitutions": ["wheat germ", "wheat bran", "oat bran", "butter/margarine/oil (to replace ground flaxseed as fat)"]
+}, {
+    "ingredient": "garam marsala (1 tbsp)",
+    "substitutions": ["1/2 tsp ground cumin + 1/2 tsp ground coriander + 1/2 tsp ground black pepper + 1/2 tsp ground cardamom + 1/2 tsp ground cinnamon + 1/4 tsp ground cloves (toast spices just before using)"]
+}, {
+    "ingredient": "garlic clove;garlic cloves;clove garlic;cloves garlic;garlic  (1 clove fresh)",
+    "substitutions": ["1/2 to 1 tsp minced shallots", "1/8 tsp garlic powder", "1/4 tsp granulated garlic", "1/2 tsp garlic salt (omit 1/2 tsp salt from recipe)"]
+}, {
+    "ingredient": "garlic salt (1 tsp)",
+    "substitutions": ["1/4 tsp garlic powder + 3/4 tsp salt"]
+}, {
+    "ingredient": "crystallized ginger (3 tbsp)",
+    "substitutions": ["2 tsp minced fresh ginger + 1/8 to 1/2 tsp granulated sugar", "1/8 tsp ground ginger"]
+}, {
+    "ingredient": "ginger (1 tbsp)",
+    "substitutions": ["1/8 tsp ground ginger (for baking)", "1 tbsp pumpkin pie spice (for baking)", "1 tbsp allspice (for baking)"]
+}, {
+    "ingredient": "greek seasoning (1 tsp)",
+    "substitutions": ["1 tsp dried oregano + 3/4 tsp onion powder + 3/4 tsp garlic powder + 1/2 tsp ground black pepper + 1/4 tsp dried mint + pinch of cinnamon + pinch of nutmeg"]
+}, {
+    "ingredient": "grenadine (1 tsp)",
+    "substitutions": ["2 to 3 tsp pomegranate juice (reduce liquid and add sugar as necessary)", "1 tsp raspberry syrup"]
+}, {
+    "ingredient": "harissa (1 tbsp)",
+    "substitutions": ["chile paste", "1 to 3 tsp hot sauce"]
+}, {
+    "ingredient": "hearts of palm",
+    "substitutions": ["canned or marinated artichoke hearts", "cooked asparagus"]
+}, {
+    "ingredient": "herbes de Provence (3 tbsp)",
+    "substitutions": ["2 tsp dried thyme + 2 tsp dried savory + 1 tsp dried marjoram + 1 tsp dried lavender + 1/2 tsp dried rosemary + 1/2 tsp fennel seeds + 1 crushed bay leaf"]
+}, {
+    "ingredient": "honey (1 cup)",
+    "substitutions": ["1 1/4 cups granulated sugar + 1/4 cup liquid called for in recipe", "1/2 cup granulated sugar + 3/4 cup maple syrup"]
+}, {
+    "ingredient": "Italian seasoning (2 tsp)",
+    "substitutions": ["1 tsp dried oregano + 1/2 tsp dried basil + 1/2 tsp dried thyme"]
+}, {
+    "ingredient": "kale",
+    "substitutions": ["collard greens", "turnip greens", "mustard greens", "spinach"]
+}, {
+    "ingredient": "ketchup (1 cup)",
+    "substitutions": ["1 cup tomato sauce + 1/4 cup granulated sugar + 3 tbsp apple cider vinegar + 1/2 tsp salt + pinch ground cloves", "chili sauce", "barbecue sauce"]
+}, {
+    "ingredient": "leeks;leek (chopped)",
+    "substitutions": ["chopped green onions or scallions", "chopped shallots", "chopped sweet or storage onions"]
+}, {
+    "ingredient": "lemongrass (1 stalk)",
+    "substitutions": ["1 1/2 tsp lemon zest + 1/8 minced fresh ginger"]
+}, {
+    "ingredient": "lemon pepper (1 tsp)",
+    "substitutions": ["1/2 tsp grated fresh lemon zest + 1/4 tsp salt + 1/8 tsp ground black pepper"]
+}, {
+    "ingredient": "lima beans",
+    "substitutions": ["green peas", "edamame", "sugar snap peas", "chickpeas", "red kidney peas", "black-eyed peas", "cannellini beans"]
+}, {
+    "ingredient": "liquid smoke (2 drops)",
+    "substitutions": ["1 tsp canning liquid from canned chipotle peppers", "1/2 tsp paprika"]
+}, {
+    "ingredient": "marjoram",
+    "substitutions": ["sweet basil", "summer savory"]
+}, {
+    "ingredient": "marscapone cheese (1 cup)",
+    "substitutions": ["1/2 cup cream cheese + 1/2 cup sour cream blended until smooth", "3/4 cup cream cheese + 1/4 cup heavy or whipping cream blended until smooth", "1/2 cup ricotta cheese + 1/2 cup heavy or whipping cream blended until smooth"]
+}, {
+    "ingredient": "mayonnaise;mayo",
+    "substitutions": ["sour cream", "yogurt"]
+}, {
+    "ingredient": "whole milk",
+    "substitutions": ["1 cup minus 3 tbsp fat-free milk + 3 tbsp melted butter or margarine"]
+}, {
+    "ingredient": "mint",
+    "substitutions": ["basil"]
+}, {
+    "ingredient": "mozzarella cheese",
+    "substitutions": ["provolone cheese", "gouda cheese"]
+}, {
+    "ingredient": "mustard greens",
+    "substitutions": ["turnip greens", "arugula", "collard greens", "kale"]
+}, {
+    "ingredient": "napa cabbage",
+    "substitutions": ["green or red cabbage", "collard greens"]
+}, {
+    "ingredient": "nectarines;nectarine",
+    "substitutions": ["peaches", "plums", "apricots", "cherries"]
+}, {
+    "ingredient": "nutmeg",
+    "substitutions": ["ground mace", "ground allspice", "ground cinnamon", "apple pie spice", "pumpkin pie spice"]
+}, {
+    "ingredient": "oat flour (1 cup)",
+    "substitutions": ["1 1/4 cups old-fashioned oatmeal, ground in blender"]
+}, {
+    "ingredient": "vegetable oil (1/2 cup)",
+    "substitutions": ["1/4 cup buttermilk + 1/4 cup well-drained", "unsweetened applesauce or baby food prunes (for baking)"]
+}, {
+    "ingredient": "okra (2 cups)",
+    "substitutions": ["green beans", "asparagus", "broccoli", "1 tbsp filé powder or 2 tsp cornstarch, mixed with 1 tbsp cold water (for thickening especially in gumbo)"]
+}, {
+    "ingredient": "Old Bay seasoning",
+    "substitutions": ["crab boil", "pickling spice"]
+}, {
+    "ingredient": "olive oil",
+    "substitutions": ["corn oil", "canola oil", "peanut oil"]
+}, {
+    "ingredient": "onion flakes (1 tbsp)",
+    "substitutions": ["3/4 to 1 tsp onion powder", "1/2 cup chopped fresh or frozen onion"]
+}, {
+    "ingredient": "onion;onions (1 cup)",
+    "substitutions": ["2 tbsp dried onion flakes", "1 1/2 to 2 tsp onion powder"]
+}, {
+    "ingredient": "oregano",
+    "substitutions": ["marjoram", "thyme", "fresh basil", "summer savory"]
+}, {
+    "ingredient": "papaya",
+    "substitutions": ["mango", "peaches", "nectarines"]
+}, {
+    "ingredient": "paprika",
+    "substitutions": ["chili powder"]
+}, {
+    "ingredient": "Parmesan cheese",
+    "substitutions": ["Pecorino Romano cheese", "aged Asiago cheese", "nutritional yeast"]
+}, {
+    "ingredient": "peaches;peach",
+    "substitutions": ["nectarines", "apricots", "plums", "cherries", "mango"]
+}, {
+    "ingredient": "pears;pear",
+    "substitutions": ["apples", "asian pears", "quinces"]
+}, {
+    "ingredient": "Pecorino cheese",
+    "substitutions": ["Parmesan cheese", "aged Asiago cheese"]
+}, {
+    "ingredient": "pickling spice",
+    "substitutions": ["crab boil", "Old Bay seasoning"]
+}, {
+    "ingredient": "pineapple",
+    "substitutions": ["papaya", "guava", "mango"]
+}, {
+    "ingredient": "pineapple juice",
+    "substitutions": ["orange juice", "grapefruit juice"]
+}, {
+    "ingredient": "orange juice",
+    "substitutions": ["pineapple juice", "grapefruit juice"]
+}, {
+    "ingredient": "pine",
+    "substitutions": ["walnuts", "almonds", "pecans", "pistachios", "hazelnuts"]
+}, {
+    "ingredient": "pomegranate juice",
+    "substitutions": ["cranberry juice"]
+}, {
+    "ingredient": "poultry seasoning (1 tsp)",
+    "substitutions": ["3/4 tsp dried thyme + 1/2 tsp crushed or rubbed sage + 1/2 tsp dried marjoram + 1/4 tsp ground black pepper"]
+}, {
+    "ingredient": "Provolone cheese",
+    "substitutions": ["mozzarella cheese", "Fontina cheese"]
+}, {
+    "ingredient": "puff pastry",
+    "substitutions": ["phyllo dough", "pie dough"]
+}, {
+    "ingredient": "pumpkin",
+    "substitutions": ["butternut squash", "sweet potato"]
+}, {
+    "ingredient": "pumpkin pie spice (1 tsp)",
+    "substitutions": ["1/2 tsp ground cinnamon + 1/4 tsp ground nutmeg + 1/4 tsp ground ginger + 1/8 tsp groud cloves", "1 tsp apple pie spice"]
+}, {
+    "ingredient": "queso fresco",
+    "substitutions": ["feta cheese (rinsed to remove some salt)"]
+}, {
+    "ingredient": "quinoa",
+    "substitutions": ["couscous", "bulgur"]
+}, {
+    "ingredient": "radicchio",
+    "substitutions": ["belgian endive", "arugula", "watercress"]
+}, {
+    "ingredient": "radishes;radish",
+    "substitutions": ["turnips", "parsnips"]
+}, {
+    "ingredient": "raisins",
+    "substitutions": ["other dried fruits like apricots", "blueberries", "cranberries", "or cherries"]
+}, {
+    "ingredient": "raspberries",
+    "substitutions": ["strawberries", "blackberries"]
+}, {
+    "ingredient": "red cabbage",
+    "substitutions": ["green cabbage", "brussels sprouts", "napa cabbage"]
+}, {
+    "ingredient": "rhubarb",
+    "substitutions": ["cranberries"]
+}, {
+    "ingredient": "ricotta cheese",
+    "substitutions": ["puréed cottage cheese", "fromage blanc", "mashed firm tofu"]
+}, {
+    "ingredient": "romaine lettuce",
+    "substitutions": ["iceberg lettuce", "butterhead lettuce"]
+}, {
+    "ingredient": "romano cheese",
+    "substitutions": ["Parmesan cheese", "aged Asiago cheese"]
+}, {
+    "ingredient": "rosemary",
+    "substitutions": ["summer savory", "basil", "oregano"]
+}, {
+    "ingredient": "rum",
+    "substitutions": ["brandy", "bourbon"]
+}, {
+    "ingredient": "rutabaga",
+    "substitutions": ["turnips", "broccoli stems"]
+}, {
+    "ingredient": "saffron (10-15 threads)",
+    "substitutions": ["1/2 tsp turmeric + 1/2 tsp mild paprika"]
+}, {
+    "ingredient": "sage (1 tbsp)",
+    "substitutions": ["3 to 4 tsp summer savory thyme, basil, or oregano", "1 tbsp rosemary", "1 to 2 tsp poultry seasoning"]
+}, {
+    "ingredient": "savory (1 tbsp)",
+    "substitutions": ["2 to 3 tsp chopped thyme or rosemary", "1 to 1 1/2 tsp thyme + 1 to 1/2 tsp mint", "1 to 2 tsp sage", "1 tsp herbes de Provence"]
+}, {
+    "ingredient": "scallion;scallions (1 bunch)",
+    "substitutions": ["1 bunch green onions", "3 to 4 cups chopped leeks"]
+}, {
+    "ingredient": "sesame oil;sesame seed oil (1 tsp)",
+    "substitutions": ["2 tsp crushed and toasted sesame seeds + 1 tsp peanut oil"]
+}, {
+    "ingredient": "sesame seeds;sesame seed",
+    "substitutions": ["white or black poppy seeds", "finely chopped peanuts, almonds, or cashews"]
+}, {
+    "ingredient": "shallot;shallots (1 chopped)",
+    "substitutions": ["1/4 cup chopped leeks or red onions + 1/2 tsp minced garlic", "1/4 cup chopped green onions or scallions (white and light green parts only)"]
+}, {
+    "ingredient": "sherry",
+    "substitutions": ["sake", "port", "dry white wine + pinch of sugar"]
+}, {
+    "ingredient": "sorghum molasses",
+    "substitutions": ["light or dark corn syrup", "honey", "pure maple syrup"]
+}, {
+    "ingredient": "molasses (1 cup)",
+    "substitutions": ["1 cup dark corn syrup, honey or maple syrup", "3/4 cup firmly packed brown sugar", "3/4 cup granulated sugar, plus 1/4 cup water"]
+}, {
+    "ingredient": "sour cream",
+    "substitutions": ["plain yogurt", "1/3 melted unsalted butter + 3/4 cup milk + 1 tsp lemon juice (for baking)"]
+}, {
+    "ingredient": "soy sauce (1 tbsp)",
+    "substitutions": ["scant 3/4 tsp kosher salt + 1/2 tsp granulated sugar dissolved in 1 tbsp hot water", "teriyaki sauce"]
+}, {
+    "ingredient": "spinach",
+    "substitutions": ["beet greens", "turnip greens", "kale", "arugula", "watercess"]
+}, {
+	 "ingredient": "vegetable stock (1 cup)",
+    "substitutions": ["1 cup boiling water + 1 vegetable bouillon cube", "1 cup canned vegetable broth"]
+}, {
+    "ingredient": "strawberries",
+    "substitutions": ["raspberries", "blueberries"]
+}, {
+    "ingredient": "confectioners sugar;powdered sugar (1 cup)",
+    "substitutions": ["1/2 cup + 1 1/2 tbsp granulated sugar + 3/4 tsp cornstarch, fine ground in blender or food processor"]
+}, {
+    "ingredient": "brown sugar (1 packed cup)",
+    "substitutions": ["(dark) 1 cup granulated sugar + 2 to 3 tbsp molasses", "(light) 1 cup granulated sugar + 1 to 2 tbsp molasses", "(light) 1/2 cup dark brown sugar + 1/2 cup granulated sugar"]
+}, {
+    "ingredient": "sweetened condensed milk (1 14 oz can)",
+    "substitutions": ["1 cup evaporated milk + 1 1/4 cups granulated sugar, heated until sugar dissolves"]
+}, {
+    "ingredient": "sweet potato",
+    "substitutions": ["pumpkin", "butternut squash"]
+}, {
+    "ingredient": "Swiss cheese",
+    "substitutions": ["Provolone cheese", "Gruyère cheese"]
+}, {
+    "ingredient": "taco seasoning (1 tbsp)",
+    "substitutions": ["2 tsp pure chile powder + 1/4 tsp dried oregano + 1/4 tsp ground cumin + 1/8 tsp garlic powder + 1/8 tsp onion powder + pinch of cayenne pepper + salt to taste"]
+}, {
+    "ingredient": "tahini (1 cup)",
+    "substitutions": ["3/4 cup peanut butter + 1/4 cup untoasted sesame oil"]
+}, {
+    "ingredient": "tarragon",
+    "substitutions": ["dill"]
+}, {
+    "ingredient": "tequila",
+    "substitutions": ["vodka", "light rum"]
+}, {
+    "ingredient": "teriyaki sauce (1/2 cup)",
+    "substitutions": ["1/3 cup soy sauce + 3 tbsp rice vinegar + 3 tsp sugar or honey"]
+}, {
+    "ingredient": "thyme",
+    "substitutions": ["marjoram", "oregano", "basil", "summer savory"]
+}, {
+    "ingredient": "tomatoes;tomato (1 lb)",
+    "substitutions": ["1 1/2 cups canned whole tomatoes", "3 tbsp tomato paste (to replace cooked tomatoes)"]
+}, {
+    "ingredient": "tomato juice (1 cup)",
+    "substitutions": ["1/2 cup tomato purée or tomato sauce + 1/2 cup water", "1/4 cup tomato paste + 3/4 cup water"]
+}, {
+    "ingredient": "tomato paste (1 tbsp)",
+    "substitutions": ["2 to 3 tbsp tomato purée or tomato sauce, boil until reduced to 1 tbsp"]
+}, {
+    "ingredient": "tomato purée;tomato puree (1 cup)",
+    "substitutions": ["1/3 cup tomato paste + 2/3 cup water", "tomato sauce"]
+}, {
+    "ingredient": "tomato sauce (1 cup)",
+    "substitutions": ["1/2 cup tomato paste + 1/2 cup water", "1 cup canned stewed tomatoes, blended until smooth"]
+}, {
+    "ingredient": "turmeric;turmeric powder (1/4 to 1/2 tsp)",
+    "substitutions": ["1/4 to 1/2 tsp ground ginger + 1 to 2 tsp minced fresh ginger", "5 to 7 saffron threads", "1/2 tsp curry powder"]
+}, {
+    "ingredient": "turnips;turnip",
+    "substitutions": ["parsnips", "rutabaga", "broccoli stems"]
+}, {
+    "ingredient": "turnip greens",
+    "substitutions": ["mustard greens", "collards", "kale", "mature spinach"]
+}, {
+    "ingredient": "vanilla bean (1 8-inch pod)",
+    "substitutions": ["2 to 3 tsp vanilla extract"]
+}, {
+    "ingredient": "vegetable shortening (1 cup)",
+    "substitutions": ["1 cup + 2 tbsp unsalted butter (baking)"]
+}, {
+    "ingredient": "vermouth",
+    "substitutions": ["dry sherry", "dry white wine"]
+}, {
+    "ingredient": "vinegar;white vinegar;distilled white vinegar;distilled vinegar",
+    "substitutions": ["lemon juice or lime juice (for dressings, marinades, sauces, and deglazing pans)"]
+}, {
+    "ingredient": "vodka",
+    "substitutions": ["gin", "white rum", "tequila"]
+}, {
+    "ingredient": "walnuts",
+    "substitutions": ["pine nuts", "pecans", "almonds"]
+}, {
+    "ingredient": "wasabi (1 tbsp)",
+    "substitutions": ["1 tbsp well-drained prepared horseradish", "1 tbsp mustard powder + 1 tsp water (mix, cover, and let rest for 15 minutes)"]
+}, {
+    "ingredient": "watermelon",
+    "substitutions": ["honeydew melon"]
+}, {
+    "ingredient": "whipped cream (1 cup)",
+    "substitutions": ["12 oz can evaporated milk, chilled overnight, mixed with 1 tbsp lemon juice, whipped until stiff, beat in 1 tsp vanilla extract and 1/4 cup confectioner's sugar"]
+}, {
+    "ingredient": "whiskey",
+    "substitutions": ["cognac", "brandy", "or rum"]
+}, {
+    "ingredient": "wine (1 cup)",
+    "substitutions": ["(red) 3/4 cup red grape juice + 2 tbsp red wine vinegar or lemon juice + 2 tbsp water (for marinades)"]
+}, {
+    "ingredient": "white wine (1 cup)",
+    "substitutions": ["3/4 cup white grape juice", "apple juice, or apple cider + 1/4 cup white wine vinegar or lemon juice (for marinades)", "sherry or vermouth", "sake", "vegetable stock (for sauce and stews)"]
+}, {
+    "ingredient": "worcestershire sauce (1 tbsp)",
+    "substitutions": ["2 tsp soy sauce + 4 drops hot pepper sauce + 1/4 lemon juice + 1/4 tsp granulated sugar"]
+}, {
+    "ingredient": "yellow squash",
+    "substitutions": ["zucchini", "pattypan squash"]
+}, {
+    "ingredient": "yogurt",
+    "substitutions": ["sour cream", "crème fraïche", "silken tofu (blended)", "mayonnaise"]
+}, {
+    "ingredient": "zucchini",
+    "substitutions": ["yellow squash", "pattypan squash"]
+}, {
+    "ingredient": "dutch processed cocoa powder (3 tbsp)",
+    "substitutions": ["3 tbsp natural unsweetened cocoa powder + 1/8 tsp baking soda"]
+}, {
+    "ingredient": "unsweetened cocoa powder (3 tbsp)",
+    "substitutions": ["3 tbsp dutch processed cocoa powder + 1/8 tsp cream of tartar, white vinegar or lemon juice"]
+}, {
+    "ingredient": "unsweetened baking chocolate (1 ounce)",
+    "substitutions": ["3 tbsp cocoa powder + 1 tbsp butter, margarine, shortening, or coconut oil"]
+}, {
+    "ingredient": "semisweet baking chocolate (1 ounce)",
+    "substitutions": ["1/2 tsp unsweetened baking chocolate + 1 tbsp sugar"]
+}, {
+    "ingredient": "carob powder (1 tbsp)",
+    "substitutions": ["1 tbsp cocoa powder"]
+}, {
+    "ingredient": "liquid soy lecithin (1 tsp)",
+    "substitutions": ["2 1/4 tsp soy lecithin powder"]
+}, {
+    "ingredient": "liquid sunflower lecithin (1 tsp)",
+    "substitutions": ["2 1/4 tsp soy lecithin powder"]
+}, {
+    "ingredient": "margarine (1 cup)",
+    "substitutions": ["1 cup shortening or coconut oil + 2 tbsp water", "1/2 cup apple sauce"]
+}, {
+    "ingredient": "butter",
+    "substitutions": ["(1 cup butter) 1 cup shortening or coconut oil + 2 tbsp water", "(1 stick butter) 1/2 cup shortening or coconut oil + 1 tbsp water", "(half original butter amount) 1:1 ratio buttermilk and unsweetened applesauce (baking)"]
+},  {
+    "ingredient": "salted butter (1 stick)",
+    "substitutions": ["(1 stick salted) 1 stick margarine + 1/4 tsp salt"]
+}, {
+    "ingredient": "all purpose flour;allpurpose flour;purpose flour (1 cup)",
+    "substitutions": ["1/2 cup cake flour + 1/2 cup whole wheat flour", "1 cup + 2 tbsp cake flour"]
+}, {
+    "ingredient": "bread flour;gluten bread flour (1 cup)",
+    "substitutions": ["1 cup all-purpose flour + 1 tsp gluten flour"]
+}, {
+    "ingredient": "cake flour (1 cup)",
+    "substitutions": ["3/4 cup + 2 tbsp all-purpose flour + 2 tbsp cornstarch"]
+}, {
+    "ingredient": "pastry flour (1 cup)",
+    "substitutions": ["2/3 cup all-purpose flour + 1/3 cup cake flour"]
+}, {
+    "ingredient": "self rising flour (1 cup)",
+    "substitutions": ["1 cup all-purpose flour + 1 1/2 tsp baking powder + 1 tsp salt"]
+}, {
+    "ingredient": "wheat flour (1 cup)",
+    "substitutions": ["1 cup + 2 tbsp flour + 2 tbsp wheat germ"]
+}, {
+    "ingredient": "miso;miso paste",
+    "substitutions": ["soy sauce", "tahini"]
+}, {
+    "ingredient": "gelatin (1 tbsp)",
+    "substitutions": ["1 tbsp agar agar flakes or powder"]
+}, {
+    "ingredient": "rice vinegar",
+    "substitutions": ["apple cider vinegar", "white wine vinegar", "champagne vinegar", "sherry vinegar"]
+}, {
+    "ingredient": "rice wine vinegar",
+    "substitutions": ["apple cider vinegar", "white wine vinegar", "champagne vinegar", "sherry vinegar"]
+}, {
+    "ingredient": "rice wine",
+    "substitutions": ["sherry wine", "white wine", "sweet marsala wine"]
+}, {
+    "ingredient": "mirin",
+    "substitutions": ["sherry wine", "white wine", "sweet marsala wine"]
+}, {
+  "ingredient": "vanilla extract;vanilla",
+  "substitutions": ["maple syrup", "almond extract", "vanilla milk", "rum or brandy", "1/2 vanilla bean for 1 tsp extract"]
+}, {
+  "ingredient": "cashews;cashew",
+  "substitutions": ["peanuts", "almonds"]
+}, {
+  "ingredient": "parsley",
+  "substitutions": ["chervil", "cilantro", "basil", "carrot greens"]
+}, {
+  "ingredient": "maple syrup",
+  "substitutions": ["agave", "honey", "molasses", "sugar"]
+}, {
+  "ingredient": "basil",
+  "substitutions": ["oregano", "thyme", "spinach (for color)"]
+}, {
+  "ingredient": "green onion;green onions;scallion;scallions",
+  "substitutions": ["shallots", "chives", "leeks"]
+}, {
+  "ingredient": "dijon mustard",
+  "substitutions": ["yellow mustard", "spicy brown mustard", "honey mustard", "wasabi"]
+}, {
+  "ingredient": "cinnamon",
+  "substitutions": ["allspice", "cinnamon extract", "cardamom (savory dishes)"]
+}, {
+  "ingredient": "cilantro",
+  "substitutions": ["italian parsley", "parsley + mint or lemon", "papalo"]
+}, {
+  "ingredient": "coconut oil",
+  "substitutions": ["melted butter"]
+}, {
+  "ingredient": "pecans",
+  "substitutions": ["walnuts", "peanuts", "pistachios", "cashews"]
+}, {
+  "ingredient": "garlic powder",
+  "substitutions": ["garlic granules", "garlic salt (adjust salt in recipe)", "garlic cloves (1/3 tsp powder = 1 clove)"]
+}, {
+  "ingredient": "onion powder (1 tsp)",
+  "substitutions": ["3 tbsp-1/3 cup chopped onion", "1 tbsp onion flakes"]
+}, {
+  "ingredient": "peanut butter",
+  "substitutions": ["almond butter", "tahini", "coconut butter"]
+}, {
+  "ingredient": "ginger powder (1/8 tsp)",
+  "substitutions": ["1 tbsp fresh ginger"]
+}, {
+  "ingredient": "tapioca starch",
+  "substitutions": ["arrowroot (1/2 the amount recipe calls for)", "potato starch (1/2 the amount recipe calls for)"]
+}, {
+  "ingredient": "pepper flakes;pepper flake;chili flakes;chile flakes",
+  "substitutions": ["chili powder", "cayenne pepper", "crushed dried chilis", "sriracha"]
+}, {
+  "ingredient": "carom seeds;carom seed",
+  "substitutions": ["dried thyme", "dried tarragon", "cumin"]
+}, {
+  "ingredient": "arrowroot;arrowroot powder",
+  "substitutions": ["tapioca starch", "cornstarch"]
+}, {
+  "ingredient": "hoisin sauce",
+  "substitutions": ["sweet barbecue sauce + sriracha + Chinese five-spice powder"]
+}, {
+  "ingredient": "agave;agave syrup;agave nectar (1/4 cup)",
+  "substitutions": ["sugar syrup (2 parts sugar 1 part water)", "maple syrup", "1/3 cup sugar + 2-3 tbsp water"]
+}, {
+  "ingredient": "dates",
+  "substitutions": ["raisins (soaked in hot water for 3 min)", "prunes", "figs"]
+}, {
+  "ingredient": "peanut;peanuts",
+  "substitutions": ["almonds", "cashews", "pumpkin seeds", "sunflower seeds"]
+}, {
+  "ingredient": "tamari",
+  "substitutions": ["soy sauce"]
+}, {
+  "ingredient": "cocao powder;cacao powder",
+  "substitutions": ["carob powder"]
+}, {
+  "ingredient": "cajun seasoning;cajun spice;cajun (1 tsp)",
+  "substitutions": ["1/4 tsp cayenne pepper + 1/2 dried thyme + 1/4 dried basil + 1 clove garlic"]
+}, {
+  "ingredient": "dried basil (1 tsp)",
+  "substitutions": ["1 tbsp fresh basil", "1 tsp oregano", "1 tsp Italian seasoning", "1 tsp tarragon"]
+}, {
+  "ingredient": "chocolate (1 ounce)",
+  "substitutions": ["3 tbsp cocoa powder + 1 tbsp shortening or vegetable oil"]
+}, {
+  "ingredient": "lemon;lemon juice;juice lemon (1 tsp)",
+  "substitutions": ["1/4 tsp apple cider vinegar"]
+}, {
+  "ingredient": "ground coriander;dried coriander;coriander;coriander seeds (1 tsp)",
+  "substitutions": ["3/4 tsp cumin", "1 tsp caraway seeds"]
+}, {
+  "ingredient": "chives",
+  "substitutions": ["scallions", "leeks", "onion"]
+}, {
+  "ingredient": "oats",
+  "substitutions": ["ground flax", "rice bran", "quinoa flakes", "buckwheat", "barley", "millet"]
+}, {
+  "ingredient": "chia seeds;chia seed",
+  "substitutions": ["flaxseeds", "hemp seeds"]
+}, {
+  "ingredient": "almonds;almond",
+  "substitutions": ["walnuts", "cashews", "peanuts", "pistachios"]
+}, {
+  "ingredient": "fennel (bulb)",
+  "substitutions": ["celery", "bok choy stems", "anise seeds"]
+}, {
+  "ingredient": "fennel seeds;fennel seed (1 tsp)",
+  "substitutions": ["1 tsp anise seeds", "1/2 tsp licorice root", "1 tsp cumin"]
+}, {
+  "ingredient": "balsamic vinegar (1 tbsp)",
+  "substitutions": ["1 tbsp cider or red wine vinegar + 1/2 tsp sugar"]
+}, {
+  "ingredient": "white wine vinegar",
+  "substitutions": ["rice wine vinegar", "champagne vinegar", "cider vinegar"]
+}, {
+  "ingredient": "wine vinegar (substitute according to taste)",
+  "substitutions": ["balsamic vinegar", "white wine vinegar", "cider vinegar", "rice vinegar"]
+}, {
+  "ingredient": "celery",
+  "substitutions": ["fennel", "bok choy"]
+}, {
+  "ingredient": "pistachios;pistachio",
+  "substitutions": ["pine nuts", "almonds", "cashews", "hazelnuts"]
+}, {
+  "ingredient": "jalapeno;jalapeño;jalapeno peppers;jalapeño peppers;jalapeno pepper;jalapeño pepper",
+  "substitutions": ["serrano pepper", "anaheim pepper", "cayenne", "red chili flakes"]
+}, {
+  "ingredient": "apple cider vinegar (1 tbsp)",
+  "substitutions": ["1 tbsp lemon or lime juice", "2 tbsps white wine"]
+}]

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/presto/static/css/main.b9b24ed5.chunk.css",
+    "main.js": "/presto/static/js/main.0edb6606.chunk.js",
+    "main.js.map": "/presto/static/js/main.0edb6606.chunk.js.map",
+    "runtime~main.js": "/presto/static/js/runtime~main.c2e01515.js",
+    "runtime~main.js.map": "/presto/static/js/runtime~main.c2e01515.js.map",
+    "static/js/2.8b3db3f8.chunk.js": "/presto/static/js/2.8b3db3f8.chunk.js",
+    "static/js/2.8b3db3f8.chunk.js.map": "/presto/static/js/2.8b3db3f8.chunk.js.map",
+    "index.html": "/presto/index.html",
+    "precache-manifest.03b7dc72eef8f5fe453f156908ffd823.js": "/presto/precache-manifest.03b7dc72eef8f5fe453f156908ffd823.js",
+    "service-worker.js": "/presto/service-worker.js",
+    "static/css/main.b9b24ed5.chunk.css.map": "/presto/static/css/main.b9b24ed5.chunk.css.map",
+    "static/media/vegetarian-mark.svg": "/presto/static/media/vegetarian-mark.31ffd1dc.svg"
+  }
+}
