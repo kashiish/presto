@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://kashiish.github.io/presto/",
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "gh-pages": "^1.2.0",
     "react": "^16.8.6",
     "react-autosuggest": "^9.4.3",
